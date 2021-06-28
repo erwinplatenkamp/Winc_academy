@@ -1,7 +1,10 @@
-echo "# Winc_academy" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/erwinplatenkamp/Winc_academy.git
-git push -u origin main
+<!DOCTYPE html>
+<html>
+    <head>
+        Welkom allen!
+        <title> Het begin </title>
+    </head>
+    <body>
+      <p1> Dit is mijn eerste website! :)</p1> 
+    </body>
+</html>
