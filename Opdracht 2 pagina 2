@@ -1,19 +1,24 @@
-<!DOCTYPE html>
 <html>
     <head>
 
         <title> Pagina 2 </title>
     </head>
-    <body>
+    <body>                                                                                                          
 
     <br>
     <br>
 
-<img height="500" src="img/nocomment.jpg">
+    <img height="500" src="img/nocomment.jpg">
 
-<br>
+    <br>
 
 <p2> Wie van de 4 ben ik? Dit laten we nog even in het midden ;)</p2>
 
+    <br>
+        <br>
+
 <p3> Hier kun je terug keren naar de hoofdpagina </p3>
-    <a href="opdracht2.html" target="_blank"> hoofdpagina</a>
+    <a href="C:\Users\erwin\Desktop\WinC_academy\Opdracht_002\Opdracht_002.html" target="_blank"> Return</a>
+
+</body>                                                                             
+</html>  
