@@ -1,10 +1,11 @@
+                                                                                                                                                                                                            <!DOCTYPE html>
 <!DOCTYPE html>
 <html>
     <head>
         Welkom allen!
         <title> Het begin </title>
     </head>
-    <body>
+    <body>                                                                                                                                                                                                                                                                                                                                                                                                                                      
       <H1> Dit is mijn eerste website! :)</H1>  
       <H2> Binnenkort worden mijn websites een stuk mooier dan deze!</H2>
 
@@ -30,19 +31,20 @@
 
        <HR>
 
-       <P4> Tevens wil ik jullie kennis laten maken met mijn vriend Kareltje! Kareltje is een malawicichlide.
-       hij is nu 2 jaar oud en ongeveer 15 cm lang.</p4>
 
-       <br>
-       <br>
+<P4> Tevens wil ik jullie kennis laten maken met mijn vriend Kareltje! Kareltje is een malawicichlide.
+    hij is nu 2 jaar oud en ongeveer 15 cm lang.
+</p4>                                                                                                                                                                                                   
 
-       <img height="200" src="img/karel.jpg">
+    <br>
+    <br>
 
-       <br>
-       <br>
+<img height="200" src="img/karel.jpg">
 
-       <p5>Op pagina 2 zien jullie nog een foto van mijzelf </p5>
-       <a href="about.html" target="_blank"> Pagina 2</a>
-     </body>  
+<br>
+<br>
 
-</html>                    
+<p5>Op pagina 2 zien jullie nog een foto van mijzelf </p5>
+<a href="C:\Users\erwin\Desktop\WinC_academy\Opdracht_002\about.html" target="_blank"> Pagina 2</a>
+    </body>                                                                             
+</html>                                                                             
