@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title> Pagina 2 </title>
+    </head>
+    <body>
+
+<p1> Tevens wil ik jullie kennis laten maken met mijn vriend Kareltje! Kareltje is een malawicichlide</p1>
+
+    <br>
+    <br>
+
+<img height="500" src="img/nocomment.jpg">
+
+<br>
+
+<p2> Wie van de 4 ben ik? Dit laten we nog even in het midden ;)</p2>
+
+<p3> Hier kun je terug keren naar de hoofdpagina </p3>
+    <a href="opdracht2.html" target="_blank"> hoofdpagina</a>
