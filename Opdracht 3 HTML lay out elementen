@@ -1,0 +1,67 @@
+                                                                                                                                                                                                            <!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+    <head>
+        Welkom allen!
+        <title> Het begin </title>
+    </head>
+
+    <body>  
+
+    <header>                                                                                                                                                                                                                                                                                                                                                                                                                                      
+      <H1> Dit is mijn eerste website! :)</H1>  
+      <H2> Binnenkort worden mijn websites een stuk mooier dan deze!</H2>
+    </header>  
+
+      <hr>
+
+    <main>
+      <p1> Om mij beter te leren kennen heb ik hieronder een lijstje gemaakt met mijn hobby's.</p1>
+      <ul>
+        <li>voetbal;</li>
+        <li>gitaar spelen;</li>
+        <li>programmeren.</li>
+      </ul>
+    </main> 
+
+    <main>
+      <p2> Ook wil ik graag met jullie delen wat mijn top 3 van lievelingsgerechten is.</p2>
+    
+      <ol>
+         <li>diepvriespizza van Dr Oetker;</li>
+         <li>lasagne bolognese;</li>
+         <li>grootmoeders stoofpotje.</li>
+       </ol>
+    </main> 
+
+    <main>
+    <nav>
+       <p3> Willen jullie weten wat mijn favoriete voetbalclub is? Klik maar op de link</p3>
+       <a href="http://fctwente.com" target="_blank">"Tadaaaaa"</a>
+    </nav>
+    </main>
+
+       <HR>
+
+    <main>
+       <P4> Tevens wil ik jullie kennis laten maken met mijn vriend Kareltje! Kareltje is een malawicichlide. Hij is nu 2 jaar oud en ongeveer 15 cm lang.</p4>                                                                                                                                                                                                   
+    
+
+    <br>
+    <br>
+
+      <img height="200" src="img/karel.jpg">
+    </main>
+<br>
+<br>
+    <footer>
+       <p5>Op pagina 2 zien jullie nog een foto van mijzelf </p5>
+
+    <nav>
+       <a href="about.html"> Pagina 2</a>
+    </nav>
+    </footer>
+
+
+</body>                                                                             
+</html>                                                                             
