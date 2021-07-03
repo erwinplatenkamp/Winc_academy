@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title> Pagina 2 </title>
+    </head>
+    <body>                                                                                                          
+
+    <br>
+    <br>
+    
+<main>
+    <img height="500" src="img/nocomment.jpg">
+
+    <br>
+
+<p2> Wie van de 4 ben ik? Dit laten we nog even in het midden ;)</p2>
+</main>
+    <br>
+    <br>
+
+<nav>
+<p3> Hier kun je terug keren naar de hoofdpagina </p3>
+    <a href= "Opdracht_002.html"> Return</a>
+</nav>
+
+</body>                                                                             
+</html>  
