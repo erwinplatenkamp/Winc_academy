@@ -1,0 +1,37 @@
+head{
+    font-size: 20px; 
+    font-style : helvetica;
+}
+body { 
+    color: red;
+    background-color: rgb(211, 210, 154);
+    opacity: 0.9;
+}
+
+header{
+    border: 2px dashed black;
+    
+}
+h1{
+    font-size: 30px; 
+    font-style : helvetica;
+}
+
+h2{
+    font-size: 30px; 
+    font-style : helvetica;  
+}
+
+ul{
+    border: 2px dashed black; 
+    color: white; 
+    background-color: rgb(4, 105, 4);
+    font-style : helvetica; 
+}
+
+ol{
+    border: 2px dashed black; 
+    color: white; 
+    background-color: rgb(4, 105, 4);
+    font-style : helvetica; 
+}
