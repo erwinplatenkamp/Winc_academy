@@ -1,11 +1,18 @@
-head{
-    font-size: 20px; 
-    font-style : helvetica;
-}
 body { 
     color: red;
-    background-color: rgb(211, 210, 154);
     opacity: 0.9;
+}
+
+.black-border {
+    border: 2px dashed black;
+}
+
+#green-background {
+    background-color: green;
+}
+
+#green-background2 {
+    background-color: green;
 }
 
 header{
@@ -23,15 +30,11 @@ h2{
 }
 
 ul{
-    border: 2px dashed black; 
     color: white; 
-    background-color: rgb(4, 105, 4);
     font-style : helvetica; 
 }
 
 ol{
-    border: 2px dashed black; 
     color: white; 
-    background-color: rgb(4, 105, 4);
     font-style : helvetica; 
 }
