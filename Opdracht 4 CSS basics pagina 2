@@ -1,21 +1,30 @@
-head{
-    font-size: 20px; 
-    font-style : helvetica;
-}
-body { 
-    color: red;
-    background-color: rgb(211, 210, 154);
-    opacity: 0.9;
-}
+<html>
+<link rel="stylesheet" type="text/css" href="styles2.css">
 
-header{
-    border: 2px dashed black;
-    
-}
-h1{
-    font-size: 30px; 
-    font-style : helvetica;
-}
+<head>
+    <title> Pagina 2 </title>
+</head>
+
+<body>
+    <header class="black-border">
+        <h1>Wie van de 4 ben ik? Dit laten we nog even in het midden ;)</h1>
+    </header>
+
+    <hr>
+    </hr>
+
+    <main>
+        <img height="500" src="img/nocomment.jpg">
+    </main>
 
 
+    <p>Hier kun je terug keren naar de hoofdpagina </p>
+
+    <nav>
+        <a href="Opdracht_002.html"> Return</a>
+    </nav>
+
+</body>
+
+</html>
 
