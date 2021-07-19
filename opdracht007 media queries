@@ -1,3 +1,59 @@
+body { 
+    color: red;
+    opacity: 0.9;
+}
+
+.header {
+    Margin: auto;
+    color: red;
+    width: 360px;
+
+}
+
+.black-border {
+    border: 2px dashed black;
+    background-color: rgb(31, 116, 138);
+    margin: 10px;
+    padding: 10px;
+}
+
+.horizontaal li {
+    display: inline;
+    border: 2px dashed black;
+    background-color: rgb(149, 192, 202);
+    margin: 10px;
+    padding: 10px;
+
+}
+header{
+    border: 2px dashed black;
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+    font-size: 30px; 
+    font-style : helvetica;
+    margin: 0 auto;
+    width: 500px;
+}
+
+h2{
+    font-size: 30px; 
+    font-style : helvetica;  
+    margin: 0 auto;
+    width: 900px;
+}
+
+ul{
+    color: white; 
+    font-style : helvetica; 
+}
+
+ol{
+    color: white; 
+    font-style : helvetica; 
+}
+
 @media (min-width: 1024px) {
 body{
     background-color: rgb(247, 244, 206);
