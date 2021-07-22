@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html>
 
-    <form name="contact" method="POST" data-netlify="true">
-    <input type="text" value="Naam">
-    <br><br>
-    <input type="email" value="Mail adress">
-    <br><br>
-    <textarea rows="10" cols="40">
-    Laat hier een leuk berichtje achter    
-    </textarea>
-    <br><br>
-    <input type="submit">
-
+<form name="contact" method="POST" data-netlify="true">
+    <p>
+        <label>Naam: <input type="text" name="Naam" /> </label>
+    </p>
+    <p>
+        <label>Jouw mailadres <input type="email" name="email" /> </label>
+    </p>
+    <p>
+        <label> Laat hier een leuk berichtje achter: <textarea name="leuke tekst" rows="10" cols="40">
+    Laat hier een leuk berichtje achter </textarea>
+        </label>
+    </p>
+    <button type="submit">Send</button>
 </form>
+
+</html>
