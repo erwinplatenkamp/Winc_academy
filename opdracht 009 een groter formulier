@@ -1,0 +1,74 @@
+                   <!DOCTYPE html>
+<html>
+
+<form name="contact" method="POST" data-netlify="true">
+    <p>
+        <label>Naam: <input type="text" name="Naam" /> </label>
+    </p>
+
+    <p>
+        <label>Jouw mailadres:S <input type="email" name="email" /> </label>
+    </p>
+
+    <p>
+        <label> Leuk berichtje: <textarea name="leuke tekst" rows="10" cols="40">
+    Laat hier een leuk berichtje achter </textarea>
+        </label>
+    </p>
+
+    <p>
+        <label> Telefoonnummer: <input type="tel" name="Telefoonnummer" /> </label>
+
+    <p>
+        <label>Geboortedatum: <input type="date" name="Geboortedatum" /> </label>
+    </p>
+
+    <p> Gender: </p>
+    <p>
+        <input type="radio" id="man" name="gender" value="Man">
+        <label for="man">Man</label><br>
+        <input type="radio" id="vrouw" name="gender" value="Vrouw">
+        <label for="vrouw">Vrouw</label><br>
+        <input type="radio" id="gender neutraal" name="gender" value="Gender neutraal">
+        <label for="gender neutraal">Gender neutraal</label>
+    </p>
+
+    <p>
+    <p>Favoriete cousine: </p>
+    <input type="checkbox" id="Favoriete cousine1" name="Favoriete cousine1" value="Frans">
+    <label for="Favoriete cousine1"> De Franse keuken</label><br>
+    <input type="checkbox" id="Favoriete cousine2" name="Favoriete cousine2" value="Italiaans">
+    <label for="Favoriete cousine1"> De Italiaanse keuken</label><br>
+    <input type="checkbox" id="Favoriete cousine3" name="Favoriete cousine3" value="Spaans">
+    <label for="Favoriete cousine3"> De Spaanse keuken</label><br>
+    <input type="checkbox" id="Favoriete cousine4" name="Favoriete cousine4" value="Arabisch">
+    <label for="Favoriete cousine4"> De Arabische keuken</label><br>
+    </p>
+
+    <p>
+        <label>Favoriete kleur schort: <input type="color" name="Favoriete kleur" /> </label>
+    </p>
+
+    <p>
+        <label>Biografie: <textarea name="Biografie" rows="10" cols="40"></textarea> </label>
+    </p>
+
+    <p>
+        <label for="myfile">Upload je laatste recept:</label>
+        <input type="file" id="myfile" name="myfile">
+    </p>
+
+    <p>
+        <label for="homepage">Link naar je receptenwebsite:</label>
+        <input type="url" id="homepage" name="homepage">
+    </p>
+
+    <p>
+        <button type="reset">Reset</button>
+    </p>
+
+    <p>
+        <button type="submit">Send</button>
+    </p>
+
+</form>                                            
