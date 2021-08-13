@@ -1,1 +1,47 @@
-1
+
+const age = 17;
+const isFemale = true;
+const driverStatus = "bob";
+const name = "Erwin";
+const totalAmount = 101;
+
+
+if (age >= 18) {
+    console.log("Welkom!");
+} else {
+    console.log("Kleuters mogen niet naar binnen");
+}
+
+if (age >= 18 && age <= 25) {
+    console.log("Je krijgt 50% korting op je biertje");
+}
+
+if (isFemale) {
+    console.log("Je bent een chicky");
+} else {
+    console.log(
+        "Je bent een dude. Je mag niet naar binnen"
+    );
+}
+
+if (driverStatus === "bob") {
+    console.log("100% bob. Je hebt geen druppel op");
+} else {
+    console.log("Je bent geen bob, ik bel een taxi voor je");
+}
+
+if (name === "Sarah" || name === "Bram") {
+    console.log("Yes je krijgt een gratis flesje bier");
+} else {
+    console.log("Helaas! Je moet zelf je bier betalen");
+}
+
+if (totalAmount >= 100) {
+    console.log("Je krijgt gratis een fles champagne.");
+} else if (totalAmount > 50) {
+    console.log("je krijgt gratis een portie nachos");
+} else if (totalAmount > 25) {
+    console.log("Je krijgt gratis een portie (vega)bitterballen");
+} else {
+    console.log("Helaas krijg je geen korting");
+}
