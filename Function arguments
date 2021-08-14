@@ -6,16 +6,14 @@ paintWall1();
 
 const paintWall2 = function(color) {
     console.log(`The wall has been painted ` + color); // String concatenation
-    // or
-    console.log(`The wall has been painted ${color}`); // String interpolation
+    
 };
 paintWall2("green");
 paintWall2("blue");
 
 const paintWall3 = function(whichWall, color) {
     console.log(`The` + whichWall + ` wall has been painted` + color); // String concatenation
-    // or
-    console.log(`The ${whichWall} wall has been painted ${color}`); // String interpolation
+
 };
 paintWall3("south-east", "purple");
 paintWall3("north", "yellow");
