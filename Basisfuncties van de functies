@@ -1,1 +1,21 @@
+const Maakeenpizza = function () {
+    console.log("Verwarm de oven op 200 graden");
+    console.log("Doe de pizza erin");
+    console.log("Bak de pizza 10 minuten");
+    console.log("Haal de pizza uit de oven");
+};
 
+Maakeenpizza();
+Maakeenpizza();
+
+const Maaksushi = function () {
+    console.log("Kook rijst");
+    console.log("Draai de rijst in zeewier");
+    console.log("Doe er vis bij");
+};
+
+Maaksushi();
+Maaksushi();
+Maaksushi();
+Maakeenpizza();
+Maakeenpizza();
